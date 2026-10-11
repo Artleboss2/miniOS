@@ -1,0 +1,66 @@
+miniOS Source-Available License (non-commercial distribution)
+Version 1.0
+
+Copyright (c) 2026 Arthur Godart ("the Author"). All rights reserved
+except as granted below.
+
+This is NOT an open source license as defined by the Open Source
+Initiative: commercial distribution is reserved to the Author.
+
+1. GRANT
+   You may, free of charge, use, copy, study, modify and share the
+   software in this repository (the "Software", including miniOS.sh,
+   its embedded sources and any ISO built from it), for personal,
+   educational, research and internal purposes, subject to the
+   conditions below.
+
+2. FREE REDISTRIBUTION
+   You may redistribute the Software, modified or not, provided that:
+   (a) you distribute it free of charge;
+   (b) you keep this license and the copyright notice with it;
+   (c) you clearly state any changes you made.
+
+3. COMMERCIAL RESERVATION
+   Only the Author may sell, license for a fee, or otherwise distribute
+   the Software for money or any other consideration. Without the
+   Author's prior written permission you may NOT:
+   (a) sell the Software or any work based on it, or charge for access
+       to a copy or an ISO (including as a USB key, device or image);
+   (b) include it in a paid product, paid subscription, paid hosting or
+       paid support offering;
+   (c) accept payment for distributing it, including through
+       advertising-funded download sites or donation-gated downloads.
+   Charging only for unrelated services you provide, without
+   distributing the Software, is not restricted by this clause.
+
+4. COMMERCIAL LICENSES
+   Anyone wishing to use the Software commercially may ask the Author
+   for a separate written license.
+
+5. CONTRIBUTIONS
+   Unless agreed otherwise in writing, anything you contribute to the
+   official repository (code, scripts, documentation) is licensed to
+   the Author under a perpetual, worldwide, irrevocable, royalty-free
+   license to use, modify, sublicense and sell it, including under
+   other terms. You keep the copyright to your contribution.
+
+6. THIRD-PARTY COMPONENTS
+   miniOS builds and embeds third-party software (Linux kernel, BusyBox,
+   Dropbear, e2fsprogs, Docker and the container images it downloads).
+   Each is under its own license, which this license does not change.
+   Where such a license (for example the GNU GPL) grants you rights,
+   those rights apply to that component only, and anyone distributing
+   those binaries must follow that license, including making the
+   corresponding source code available.
+
+7. TERMINATION
+   Your rights end automatically if you breach this license. You may
+   regain them by stopping the breach and obtaining the Author's
+   written approval.
+
+8. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING
+   FROM THE USE OF THE SOFTWARE.
